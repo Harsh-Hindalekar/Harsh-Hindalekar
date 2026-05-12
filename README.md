@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**Harsh-Hindalekar/Harsh-Hindalekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Student  
+💻 Developer & Python Learner  
+🚀 Building Web Applications and UI Projects  
+🧪 Manual QA Testing Experience  
+📍 Mumbai, India  
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Python
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- DrawIT – AI Assisted Drawing Web App
+- Mutual Fund Onboarding UI
+- Portfolio Website
+- Python Document Reader
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/harsh-hindalekar-87a000335/
